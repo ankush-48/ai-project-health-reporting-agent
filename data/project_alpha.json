@@ -1,0 +1,14 @@
+{
+  "project_name": "Alpha Procurement Transformation",
+  "schedule": {
+    "baseline_end_date": "2026-06-01",
+    "forecasted_end_date": "2026-06-25",
+    "notes": "Integration testing delayed due to system environment downtime."
+  },
+  "budget": {
+    "total_allocated": null,
+    "current_spent": null
+  },
+  "blockers": "Waiting on client IT security team to whitelist IP addresses for 5 days.",
+  "client_sentiment": "Client manager expressed frustration during yesterday's status call."
+}

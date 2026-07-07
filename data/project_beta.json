@@ -1,0 +1,14 @@
+{
+  "project_name": "Beta Sourcing Implementation",
+  "schedule": {
+    "baseline_end_date": "2026-05-10",
+    "forecasted_end_date": "2026-05-12",
+    "notes": "Milestones are progressing smoothly and on track."
+  },
+  "budget": {
+    "total_allocated": 100000,
+    "current_spent": 125000
+  },
+  "blockers": "None.",
+  "client_sentiment": "Client is very happy with delivery speed but worried about overall budget creep."
+}

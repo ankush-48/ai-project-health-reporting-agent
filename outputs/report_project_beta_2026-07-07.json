@@ -1,0 +1,12 @@
+{
+    "project_name": "Beta Sourcing Implementation",
+    "overall_rag_status": "RED",
+    "dimension_scores": {
+        "Blockers": 0,
+        "Budget": 2,
+        "Schedule": 0,
+        "Sentiment": 1
+    },
+    "executive_reasoning": "The project is currently forecasted to end two days after the baseline end date, which is within the acceptable range. There are no blockers, but the client sentiment is mixed due to concerns about budget creep. However, the budget burn rate is over 15% above the allocated amount, triggering a critical fail-safe and resulting in a RED status.",
+    "data_gaps_identified": []
+}

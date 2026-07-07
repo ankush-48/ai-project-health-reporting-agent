@@ -1,0 +1,14 @@
+{
+    "project_name": "Alpha Procurement Transformation",
+    "overall_rag_status": "RED",
+    "dimension_scores": {
+        "Blockers": 1,
+        "Budget": 0,
+        "Schedule": 2,
+        "Sentiment": 2
+    },
+    "executive_reasoning": "The project is at critical risk due to significant schedule slippage and negative client sentiment. The delay in integration testing and the client's frustration are major concerns. Although there are no major blockers currently and the budget information is missing, the schedule and sentiment issues override these factors.",
+    "data_gaps_identified": [
+        "budget information is missing"
+    ]
+}
