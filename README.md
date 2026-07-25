@@ -1,4 +1,4 @@
-# 🚀 Zycus AI Project Health Reporting Agent
+# 🚀  AI Project Health Reporting Agent
 
 > **An AI-powered Project Health Reporting System built using LangChain, Groq Llama 3.3, and Pydantic to automate enterprise project health assessment through a custom RAG (Red–Amber–Green) framework.**
 
